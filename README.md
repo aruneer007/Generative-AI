@@ -1,4 +1,4 @@
-# Generative-AI
+# Blog Generation using Open Source LLM
 
 - This Project is based on Krish Naik's "Lang chain series"
 - Create a folder named "models" in the same env path
