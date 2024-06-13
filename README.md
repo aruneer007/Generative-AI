@@ -1,5 +1,7 @@
-# Generative-AI
+# RAG App with AWS Bedrock and Langchain
 
 - This Project is based on Krish Naik's "Generative AI" series with contents updated and edited.
 - This project needs AWS account to access Foundation models from AWS BEDROCK
 - The Pdf can be directly accessed or stored in a folder named "data" in the same path
+- Install the necessary libraries from requirements.txt
+- Store the necessary API keys in .env file
