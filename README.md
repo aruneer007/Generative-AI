@@ -1,4 +1,4 @@
-# Generative-AI
+# RAG pipeline project with Open Source LLMs and GROQ Inference Engine
 
 - The idea of this project is to develop an end to end advanced RAG project using open source LLm such as LLAMA, Mistral using GROQ Inference engine
 - Install the necessary libraries from requirements.txt
