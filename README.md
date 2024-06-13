@@ -1,4 +1,4 @@
-# Generative-AI
+# RAG Pipeline with Langchain ChromaDB and FAISS
 - Install the necessary libraries in the requirements.txt using the command "pip install -r requirements.txt"
 - Store the necessary api keys in .env file
 - Execute the jupyter notebook file for RAG Pipeline
