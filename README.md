@@ -1,4 +1,4 @@
-# Generative-AI
+# End-to-End-Gen-AI-project-using-AWS
 - This Project is based on Krish Naik's "Generation AI" series
 - This project needs AWS account
 - It includes serives like AWS lambda, AWS API gateway, AWS Bedrock
