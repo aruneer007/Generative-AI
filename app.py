@@ -38,7 +38,7 @@ Questions:{input}
 def vector_embedding():
     if "vectors" not in st.session_state:
         st.session_state.embedding = OpenAIEmbeddings()
-        st.session_state.loader = PyPDFDirectoryLoader("./objectbox/us_census")
+        st.session_state.loader = PyPDFDirectoryLoader("./objectbox/us_census") ## Edit the path for your document location
         st.session_state.docs = st.session_state.loader.load()
         st.session_state.text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
         st.session_state.final_documents = st.session_state.text_splitter.split_documents(st.session_state.docs[:20])
