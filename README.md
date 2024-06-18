@@ -1,5 +1,6 @@
 # Generative-AI
-- These Projects are based on Generative AI in NLP using open source and paid source LLMs
-- It also includes the use of frameworks such Langchain and streamlit
-- For cloud purposes and end to end run AWS Bedrock, AWS lambda and AWS API gateway services were used.
-- Click on the branches to explore various projects on Generative AI
+- Create an environment and install the packages using the "pip" command
+- Store the API keys in .env  file
+- To create a database with your own data , alter and run sql.py
+- This will create a database which can be used for querying
+- Run the app.py to query your database using the command "streamlit run app.py"
